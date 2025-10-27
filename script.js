@@ -1,132 +1,130 @@
-// JavaScript DOM Lab - 40 Mini Exercises
+// ========================================================
+// JavaScript DOM Manipulation Lab - 40 Mini Exercises
+// ========================================================
 
 // 🟩 PART 1: Selecting and Styling Elements (1–10)
 
-// 1. Change text color of an element by ID to red
-// TODO:
+// 1️⃣ Change text color of heading with id="title" to red.
 
-// 2. Change background color of all <p> to lightgray
-// TODO:
 
-// 3. Change #title text to "Welcome to the DOM Lab!"
-// TODO:
+// 2️⃣ Change background color of all <p> elements to lightgray.
 
-// 4. Add solid border to all <div>
-// TODO:
 
-// 5. Change font size of first <h1> to 36px
-// TODO:
+// 3️⃣ Change heading text (#title) to "Welcome to the DOM Lab!".
 
-// 6. Change text color of elements with class 'highlight' to blue
-// TODO:
 
-// 7. Add 'active' class to an element when page loads
-// TODO:
+// 4️⃣ Add a solid black border to all <div> elements.
 
-// 8. Change <body> background color to lightblue
-// TODO:
 
-// 9. Set font-family of all <p> to Arial
-// TODO:
+// 5️⃣ Increase font size of the first <h1> to 36px.
 
-// 10. Change image source of #sampleImage
-// TODO:
+
+// 6️⃣ Change text color of elements with class="highlight" to blue.
+
+
+// 7️⃣ Add CSS class "active" to the first <div>.
+
+
+// 8️⃣ Change the <body> background color to lightblue.
+
+
+// 9️⃣ Set the font family of all <p> elements to Arial.
+
+
+// 🔟 Change the image source of #sampleImage.
 
 
 // 🟦 PART 2: Creating and Appending Elements (11–20)
 
-// 11. Create a new <p> and append to <body>
-// TODO:
+// 1️⃣1️⃣ Create a new <p> and append it to the <body>.
 
-// 12. Create new <li> and append to existing <ul>
-// TODO:
 
-// 13. Create a <button> labeled "Click Me!" inside a <div>
-// TODO:
+// 1️⃣2️⃣ Create a new <li> and add it to the existing <ul>.
 
-// 14. Create <h2> dynamically and insert before first <p>
-// TODO:
 
-// 15. Create an image and set width/height
-// TODO:
+// 1️⃣3️⃣ Create a <button> labeled "Click Me!" and append it to a <div>.
 
-// 16. Add 3 new <li> items to list using a loop
-// TODO:
 
-// 17. Create a <div> with class "card" and add text
-// TODO:
+// 1️⃣4️⃣ Create <h2> dynamically and insert it before the first <p>.
 
-// 18. Append paragraph with your name to document
-// TODO:
 
-// 19. Add <span>[Edited]</span> inside every <p>
-// TODO:
+// 1️⃣5️⃣ Create an image and set width and height.
 
-// 20. Remove last child of <ul>
-// TODO:
+
+// 1️⃣6️⃣ Add 3 new <li> items using a loop.
+
+
+// 1️⃣7️⃣ Create a <div> with class "card" and text inside.
+
+
+// 1️⃣8️⃣ Append a paragraph containing your name.
+
+
+// 1️⃣9️⃣ Add a <span>[Edited]</span> inside every <p>.
+
+
+// 2️⃣0️⃣ Remove the last child of <ul>.
 
 
 // 🟨 PART 3: Event Handling (21–30)
 
-// 21. Add click event to button that alerts “Button clicked!”
-// TODO:
+// 2️⃣1️⃣ Add click event that shows an alert.
 
-// 22. Change background color of <div> when clicked
-// TODO:
 
-// 23. On hover over <p>, make text bold
-// TODO:
+// 2️⃣2️⃣ Change background color of a <div> when clicked.
 
-// 24. On mouse leave, remove bold style
-// TODO:
 
-// 25. Add button that hides image when clicked
-// TODO:
+// 2️⃣3️⃣ When hovering over <p>, make it bold.
 
-// 26. Add button that shows hidden image again
-// TODO:
 
-// 27. Counter button: increment number on each click
-// TODO:
+// 2️⃣4️⃣ When mouse leaves paragraph, remove bold style.
 
-// 28. Input + button: display entered text in <p>
-// TODO:
 
-// 29. Change background color randomly when button clicked
-// TODO:
+// 2️⃣5️⃣ Add button to hide the image.
 
-// 30. Display pressed key in <p>
-// TODO:
+
+// 2️⃣6️⃣ Add button to show the image again.
+
+
+// 2️⃣7️⃣ Create a counter button that increases with each click.
+
+
+// 2️⃣8️⃣ Display entered text from an input when button clicked.
+
+
+// 2️⃣9️⃣ Change background color randomly when a button is clicked.
+
+
+// 3️⃣0️⃣ Display which key is pressed.
 
 
 // 🟧 PART 4: Modifying and Traversing DOM (31–40)
 
-// 31. Change text of first <li> to "First item updated!"
-// TODO:
+// 3️⃣1️⃣ Change text of the first <li>.
 
-// 32. Get input value on button click
-// TODO:
 
-// 33. Count number of <p> and alert the count
-// TODO:
+// 3️⃣2️⃣ Get input value when button clicked.
 
-// 34. Remove all <p> from the page
-// TODO:
 
-// 35. Replace existing <h2> with new one
-// TODO:
+// 3️⃣3️⃣ Count number of <p> and alert the count.
 
-// 36. Add class 'highlighted' to all <li>
-// TODO:
 
-// 37. Toggle class on <div> when clicked
-// TODO:
+// 3️⃣4️⃣ Remove all <p> elements.
 
-// 38. Clone an element and append copy to page
-// TODO:
 
-// 39. Scroll smoothly to bottom of page
-// TODO:
+// 3️⃣5️⃣ Replace existing <h2> with new one.
 
-// 40. Use innerHTML to build list from array
-// TODO:
+
+// 3️⃣6️⃣ Add CSS class 'highlighted' to all <li>.
+
+
+// 3️⃣7️⃣ Toggle a CSS class on <div> when clicked.
+
+
+// 3️⃣8️⃣ Clone an existing element and append copy.
+
+
+// 3️⃣9️⃣ Scroll smoothly to bottom when button clicked.
+
+
+// 4️⃣0️⃣ Build list dynamically using innerHTML from an array.
