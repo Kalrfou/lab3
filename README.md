@@ -33,7 +33,8 @@ Each mini represents a single DOM manipulation or interaction task.
 
 ---
 
-## 🧠 Contents
+© 2025 Tafila Technical University. All rights reserved.
+
 
 
 .
